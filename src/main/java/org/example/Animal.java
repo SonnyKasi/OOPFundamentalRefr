@@ -4,6 +4,10 @@ public class Animal {
     private String eyes;
     private String tail,horns;
 
+    public Animal(){
+
+    }
+
     public Animal(String eyes, String tail, String horns) {
         this.eyes = eyes;
         this.tail = tail;

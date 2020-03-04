@@ -10,14 +10,6 @@ import static org.junit.Assert.*;
  */
 public class AppTest 
 {
-    /**
-     * Rigorous Test :-)
-     */
-    @Test
-    public void shouldAnswerWithTrue()
-    {
-        assertTrue( true );
-    }
 
     @Before
     public void setUp() throws Exception {

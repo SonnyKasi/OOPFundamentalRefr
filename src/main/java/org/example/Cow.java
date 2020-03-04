@@ -1,8 +1,13 @@
 package org.example;
 
 public class Cow extends Animal implements Function
+
 {
     private String color;
+
+    public Cow(){
+
+    }
 
     public Cow(String eyes, String tail, String horns, String color) {
         super(eyes, tail, horns);
